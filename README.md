@@ -1,6 +1,6 @@
 # AllRatesToday skill for OpenClaw
 
-Exchange rates your [OpenClaw](https://github.com/openclaw/openclaw) agent fetches instead of remembers: the ECB daily reference table, the official tables of 120+ central banks and tax authorities, and (with a key) live mid-market rates for 160+ currencies.
+Exchange rates your [OpenClaw](https://github.com/openclaw/openclaw) agent fetches instead of remembers: the ECB daily reference table, the official tables of 130+ central banks and tax authorities, and (with a key) live mid-market rates for 160+ currencies.
 
 ```bash
 openclaw skills install allratestoday
